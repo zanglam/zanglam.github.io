@@ -1,8 +1,8 @@
 <html>
 <head>
 <style>
-    .figure{float:right;width:20%;}
-    .figure img{display:block;width:50%}
+    .figure{float:right;width:30%;}
+    .figure img{display:block;width:75%}
     .text{float:right;width:70%; font-size: 20px}
 </style>
 </head>
