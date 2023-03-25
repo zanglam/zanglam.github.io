@@ -2,7 +2,7 @@
 <head>
 <style>
     .figure{float:left;width:30%;}
-    .figure img{display:block;width:75%}
+    .figure img{display:block;width:50%}
     .text{float:right;width:70%}
 </style>
 </head>
