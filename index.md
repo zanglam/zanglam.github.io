@@ -18,8 +18,6 @@
 </body>
 </html>
 
----
-
 ## About Me
 
 I am currently a master's student at Sun Yat-Sen University. My research interests include vision-language cross-modal understanding and video understanding.
