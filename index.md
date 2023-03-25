@@ -1,9 +1,9 @@
 <html>
 <head>
 <style>
-    .figure{float:left;width:15%;}
+    .figure{float:right;width:20%;}
     .figure img{display:block;width:50%}
-    .text{float:right;width:70%}
+    .text{float:right;width:70%; font-size: 20px}
 </style>
 </head>
 <body>
