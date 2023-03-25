@@ -8,10 +8,10 @@
 </head>
 <body>
     <div class="figure">
-        <img src="/images/personal.jpg">
+        <img src="/images/photo.jpg">
     </div>
     <div class="text">
-        <p><b>Zihang Lin</b>     <b>林子杭</b></p>
+        <p><b>Zihang Lin</b> &nbsp;&nbsp;&nbsp; <b>林子杭</b></p>
         <p>Email: linzh59@mail2.sysu.edu.cn</p>
         <br>
     </div>
@@ -33,11 +33,11 @@ I am currently a master's student at Sun Yat-Sen University. My research interes
 
 - Collaborative Static and Dynamic Vision-Language Streams for Spatio-Temporal Video Grounding. <br>
 **Zihang Lin**, Chaolei Tan, Jian-Fang Hu, Zhi Jin, Tiancai Ye, Wei-Shi Zheng. <br>
-*CVPR, 2023.* [[pdf]]("files/pdf/") [code (coming soon)]
+*CVPR, 2023.* [[pdf]](files/Collaborative_Static_and_Dynamic_Vision-Language_Streams.pdf) [code (coming soon)]
 
 - Hierarchical Semantic Correspondence Networks for Video Paragraph Grounding. <br>
 Chaolei Tan, **Zihang Lin**, Jian-Fang Hu, Wei-Shi Zheng, Jianhuang Lai. <br>
-*CVPR, 2023.* [[pdf]]("files/pdf/")
+*CVPR, 2023.* [[pdf]](files/hierarchical_semantic_correspondence.pdf)
 
 - Augmented 2D-TAN: A Two-stage Approach for Human-centric Spatio-Temporal Video Grounding <br>
 Chaolei Tan\*, **Zihang Lin\***, Jian-Fang Hu, Xiang Li, Wei-Shi Zheng. <br>
