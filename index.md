@@ -1,7 +1,7 @@
 <html>
 <head>
 <style>
-    .figure{float:right;width:30%;}
+    .figure{float:right;width:25%;}
     .figure img{display:block;width:70%}
     .text{float:right;width:70%; font-size: 20px}
 </style>
